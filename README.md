@@ -15,6 +15,10 @@ Radio frequency (RF) wireless energy transfer (WET) is a promising technology fo
 
 The repository contains Matlab scripts and user-defined functions required to reproduce the numerical results in the article. To run the code, you need to install the latest version of the modeling framework CVX available at https://cvxr.com/cvx/download/. 
 
+To run the code in the repository, you need to install the latest version of the modeling framework CVX available at https://cvxr.com/cvx/download/. Also we encourage the use of Mosek as it provides the most reliable results.
+
+For the results included in Figs. 6-8, we recommend the use of high-performance computing services as these may take hours if not days to complete on a normal computer. 
+
 See each file for further documentation.
 
 ## Acknowledgements
